@@ -1,2 +1,0 @@
-# periodictable
-Modern periodic table
